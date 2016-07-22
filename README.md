@@ -1,7 +1,7 @@
 ###目录
 
 ####.[Android开发工具](#Android开发工具)
-####.[Gradle插件](###Gradle插件)
+####.[Gradle插件](#Gradle插件-1)
 ####.[Android Studio插件](###Android Studio插件)
 ####4.[Apk反编译工具](#Apk反编译工具)
 ####5.[Android防护](#Android防护)
