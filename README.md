@@ -483,27 +483,7 @@ gradle-node-plugin
 
 
 
-#Chrome插件(辅助Android开发)
 
-##[Vysor](https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm)
-
->通过电脑可以操作手机，并实现手机与电脑同步。
-
-##[json-editor](https://chrome.google.com/webstore/detail/json-editor/lhkmoheomjbkfloacpgllgjcamhihfaj?hl=en)
-
->json可视化工具，并支持编辑。
-
-##[json-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj?hl=en)
->json 格式化工具 在浏览器输入地址 会在页面格式化json数据
-
-##[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?hl=en)
->超过5000万人使用，免费的广告拦截器，可阻止所有烦人的广告及恶意软件和跟踪
-
-##[HostAdmin App](https://chrome.google.com/webstore/detail/hostadmin-app/mfoaclfeiefiehgaojbmncmefhdnikeg?hl=zh-CN)
->host 绑定
-
-##[Google翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=zh-CN)
->翻译 不用解释 很强大
 
 
 
