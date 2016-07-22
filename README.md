@@ -19,22 +19,22 @@
 
 ### Android开发工具
 
-#### [Android Studio](http://developer.android.com/intl/zh-cn/sdk/index.html)
+*[Android Studio](http://developer.android.com/intl/zh-cn/sdk/index.html)
 > Android开发环境，基于IntelliJ IDEA，谷歌2013年I/O大会发布，类似 Eclipse ADT；现已更新到1.3版本（截止15年8月），并支持NDK开发；渐渐取代之前用的Eclipse ADT 成为新的Android开发工具，不管你是新手还是大神，建议全部转移到新的IDE上面来。
 
-#### [Eclipse ADT](http://developer.android.com/intl/zh-cn/tools/sdk/eclipse-adt.html)
+*[Eclipse ADT](http://developer.android.com/intl/zh-cn/tools/sdk/eclipse-adt.html)
 > Eclipse做java开发的一定不会陌生，甚至一度成为java的代名词，而如今将渐渐退出Android开发舞台，Google宣布将在15年年底前停止对Eclipse ADT开发工具的一切支持。建议开发者全面转到Android Studio上面来，对于那些还没有转向Android Studio的开发者来说，现在则不得不面对这个问题了，因为Google已经宣布终止Eclipse Android工具的开发与支持，这也意味着包括ADT插件、Ant构建系统、DDMS、Traceview与其他一系列性能和监控工具。
 
-#### [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+*[IntelliJ IDEA](http://www.jetbrains.com/idea/)
   > 部分开发者之前有基于此开发Android，随着Android Studio的稳定与普及，且后者基于前者基础上开发，所以无需再切换到这个上面上来了。
 
-#### [genymotion](https://www.genymotion.com)
+*[genymotion](https://www.genymotion.com)
 > genymotion是一套完整的工具，它提供了Android虚拟环境。由于比自带模拟器的速度快而备受开发者喜欢。  
 
-#### [Gradle](http://gradle.org/)
+*[Gradle](http://gradle.org/)
 > Gradle是一种依赖管理工具，基于Groovy语言，面向Java应用为主，它抛弃了基于XML的各种繁琐配置，取而代之的是一种基于Groovy的内部领域特定（DSL）语言。它支持已有的Maven或者Ivy仓库基础建设，有取代Maven之势。
 
-#### [Maven](https://maven.apache.org/)
+*[Maven](https://maven.apache.org/)
 > Maven是一个采用纯Java编写的开 源项目管理工具。Maven采用了一种被称之为project object model (POM)概念来管理项目，所有的项目配置信息都被定义在一个叫做POM.xml的文件中，通过该文件，Maven可以管理项目的整个生命周期，包括编 译，构建，测试，发布，报告等等。目前Apache下绝大多数项目都已经采用Maven进行管理。而Maven本身还支持多种插件，可以方便更灵活的控制 项目。
 
 #### [Ant](https://ant.apache.org/)
